@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+**/.venv/
+
+#Auzrite
+**/__azurite_db*.json
+**/AzuriteConfig
+__blobstorage__
+__queuestorage__
+__tablestorage__
+
+# Azure Functions
+.python_packages/
